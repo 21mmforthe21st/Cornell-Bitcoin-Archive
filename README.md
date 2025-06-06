@@ -1,2 +1,57 @@
 # Cornell-Bitcoin-Archive
 This is a personal archive of my academic work and letters on Bitcoin during my time at Cornell University (2022–2025).
+- Fall 2022: 
+  - COGST 2415: Intro to Moral Psychology
+    - Response Paper #3
+    - Response Paper #4 
+  - GOVT 1101: States, Power, & Global Governance 
+    - Final Paper: "Fix the Money, Fix the World"
+  - INFO 2040: Networks I
+    - Blog Post #1: Stabilizing the Texas Power Grid: An Explanation of the Nash
+      Equilibriums between ERCOT & Texas Bitcoin Miners
+    - Blog Post #2: Evaluating The Diffusion & Adoption of Bitcoin: Through Network          Effects, Public Sentiment & Self-Fulfilling Expectations Equilibrium
+  - College of Arts & Sciences Independent Major Program
+      - Independent Major Proposal
+      - Independent Major Proposal Additional Notes
+- Summer 2023:
+  - Letter to President Pollack
+  - Response to Advisor
+- Fall 2023: 
+  - College of Arts & Sciences Robert S. Harrison College Scholar Program
+      - Personal Essay
+      - Study Proposal
+      - Proposed Course Plan
+- Spring 2024
+  - COLLS 3001: College Scholar Seminar
+      - 05/16/24: RSH CSP Research Proposal "21 Million Tools For the 21st Century"
+  - COGST 4350: Mind, Self & Emotion
+      - Final Paper / Research Proposal: "Complexity Bias and Aversion in Cultural             Context: How Self-Construal and Cognitive Style Influence Financial Decisions         About bitcoin"
+- Fall 2024
+  - Letter to Interim President Michael Kotlikoff
+  - COLLS 4990: Honors Research I
+      - 10/29/24: RSH CSP Thesis Proposal
+      - RSH CSP Revised Thesis Proposal 
+  - COGST 4270: Evolution of Language
+      - Final Paper: "The Evolution of Language as the Interface for Cultural and   
+        Technological Progress" 
+  - COGST 4331: Event Cognition: How Minds, Brains, and Bodies Experience Events
+      - Final Paper / Research Proposal: "Observing Transitions: Bitcoin, Cognition &          Event Perception"
+  - INFO 4500: Language & Technology 
+      - Final Paper: "Bitcoin as a Communications Channel & Universal Language:       
+        Advancing Research in Computer-Mediated Communication"
+- Spring 2025
+    - COLLS 4991: Honors Research II
+        - 04/08/25: RSH CSP Honors Thesis "Near Complete" Draft for Committee 
+        - 05/02/25: RSH CSP Honors Thesis Draft for Committee
+        - 05/03/25: RSH CSP Senior Presentations Slides
+        - 05/03/25: RSH CSP Senior Presentations Notes
+        - 05/05/25: RSH CSP Honors Thesis Defense Slides
+        - 05/05/25: RSH CSP Honors Thesis Defense Notes
+        - 05/11/25: RSH CSP Honors Thesis Final Copy 
+        - 05/15/25: RSH CSP Honors Thesis Library Release Form
+        - 06/06/25: RSH CSP Honors Thesis Summary
+    - INFO 4360: Communication Networks and Social Capital
+        - Final Paper / Research Proposal: "Funding the Peer-to-Peer Ethos: A Network            Analysis Proposal of Bitcoin’s Technical & Social Collectives" 
+    - TEDxCornell Talk: "In Yourself You Trust"
+        - Script
+        - Slides
