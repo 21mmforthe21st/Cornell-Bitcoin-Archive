@@ -1,5 +1,5 @@
 # Cornell-Bitcoin-Archive
-This is a personal archive of my academic work and letters on Bitcoin during my time at Cornell University (2022–2025).
+This is a personal archive of my academic work and letters on Bitcoin during my time at Cornell University (2022–2025). Notably, this does not include anything related to the Cornell Bitcoin Club or the Cornell Brooks Tech Policy Institute's Bitcoin Adoption Index. 
 - Curriculum Overview 
 - Fall 2022: 
   - COGST 2415: Intro to Moral Psychology
@@ -52,7 +52,9 @@ This is a personal archive of my academic work and letters on Bitcoin during my 
         - 05/15/25: RSH CSP Honors Thesis Library Release Form
         - 06/06/25: RSH CSP Honors Thesis Summary
     - INFO 4360: Communication Networks and Social Capital
-        - Final Paper / Research Proposal: "Funding the Peer-to-Peer Ethos: A Network            Analysis Proposal of Bitcoin’s Technical & Social Collectives" 
+        - Final Paper / Research Proposal: "Funding the Peer-to-Peer Ethos: A Network Analysis Proposal of Bitcoin’s     
+          Technical & Social Collectives"
+        -  Data for INFO 4360 Paper 
     - TEDxCornell Talk: "In Yourself You Trust"
         - Script
         - Slides
