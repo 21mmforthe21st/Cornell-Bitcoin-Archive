@@ -1,5 +1,5 @@
 # Cornell-Bitcoin-Archive
-This is a personal archive of my academic work and letters on Bitcoin during my time at Cornell University (2022–2025). Notably, this does not include anything related to the Cornell Bitcoin Club, the Cornell Brooks Tech Policy Institute's Bitcoin Adoption Index, or pieces I have written outside of the classroom. 
+This is a personal archive of my academic work and letters on Bitcoin during my time at Cornell University (2022–2025). Notably, this does not include anything related to the Cornell Bitcoin Club, the Cornell Brooks Tech Policy Institute's Bitcoin Adoption Index, or pieces I have written outside of the classroom. If you would prefer Google Drive, here's the link! https://drive.google.com/drive/folders/1Kz9bLUjoUcHOjgUgxGIDP0ZPNRw25iUL?usp=drive_link
 - Curriculum Overview 
 - Fall 2022: 
   - COGST 2415: Intro to Moral Psychology
