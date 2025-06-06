@@ -24,6 +24,8 @@ This is a personal archive of my academic work and letters on Bitcoin during my 
       - Proposed Course Plan
 - Spring 2024
   - COLLS 3001: College Scholar Seminar
+      - 05/10/24: RSH CSP Sophomore Presentations Slides
+      - 05/10/24: RSH CSP Sophomore Presentations Notes
       - 05/16/24: RSH CSP Research Proposal "21 Million Tools For the 21st Century"
   - COGST 4350: Mind, Self & Emotion
       - Final Paper / Research Proposal: "Complexity Bias and Aversion in Cultural             Context: How Self-Construal and Cognitive Style Influence Financial Decisions         About bitcoin"
