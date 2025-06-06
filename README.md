@@ -58,3 +58,4 @@ This is a personal archive of my academic work and letters on Bitcoin during my 
     - TEDxCornell Talk: "In Yourself You Trust"
         - Script
         - Slides
+        - The Spreadsheet
